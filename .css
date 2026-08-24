@@ -49,8 +49,10 @@ footer {
 
 .cartao-interno {
     position: relative;
-    
+    transition: transform 0,8;
 }
+
+.cartao:hover 
 
 .cartao-frente, .cartao-verso { 
   position: absolute; 
